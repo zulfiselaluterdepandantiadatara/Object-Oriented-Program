@@ -1,4 +1,5 @@
 Penjelasan Konsep
+
 Paradigma OOP:
 
 Menggunakan konsep enkapsulasi
